@@ -1,4 +1,6 @@
-https://excalidraw.com/#json=Fn6O50Xo6bxQiunUs9ZU-,RQX3i6VSzcHlSMXqZtC3kA
+First link : https://imgur.com/a/0ZsOSGo 
+
+Second link : https://excalidraw.com/#json=Fn6O50Xo6bxQiunUs9ZU-,RQX3i6VSzcHlSMXqZtC3kA
 
 ## 1. DNS Record Specifics
 In this infrastructure, the domain is configured as follows:
